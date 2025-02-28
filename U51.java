@@ -10,7 +10,7 @@ public class U51{
 			
 			vector=new int[5];
 			
-			System.out.println("Introduce 5 número enteros: ");
+			Syste.out.println("Introduce 5 número enteros: ");
 			for(int i=0;i<5;i++){
 				vector[i]=teclado.nextInt();
 				if (vector[i]<0){
